@@ -1,5 +1,5 @@
 ##What is Termino_TerminalOL
-Online Terminal emulator for Linux
+Web-based Terminal emulator for Linux
 
 ##Installation
 Clone to your home:<br/><br/>

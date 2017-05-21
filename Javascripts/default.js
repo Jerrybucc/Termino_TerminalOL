@@ -27,10 +27,12 @@ function autofocus () {
 		$('input.input:last').focus();
 	});
 	$('span.dir:last').text(decode(currentDir));
-	$('input.input:last').css("width", $('p.format1:last').width()-$('span.dir:last').width()-25);
+	
 	update();
 }
 function update() {
-	$('input').attr('style', $('input.input:last').attr('style'));
+	$('input.input').each(function() {
+		$(this).css("width", $(this).parent().width() - $(this).siblings('span').width() - 50);
+	});
 }
 

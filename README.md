@@ -1,4 +1,4 @@
-## What is Termino_TerminalOL
+## What is Terminal
 Web-based Terminal emulator for Linux
 
 ## Installation
@@ -9,7 +9,7 @@ Add to your localhost:<br/><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>$ ln -s Terminal /var/www/html/</code><br/><br/>
 ### Mac OS X
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>$ ln -s Terminal /Library/WebServer/Documents/</code><br/><br/>
-Open your web browser and go to http://localhost/ to test Termino_TerminalOL!
+Open your web browser and go to http://localhost/ to test Terminal!
 
 ## Contact
 email: Jerrychenshikan@gmail.com

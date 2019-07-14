@@ -8,9 +8,13 @@ $ git clone git@github.com:shikanchen/Terminal.git
 ```
 
 ## How to Use
+boostrap stylesheet
+```html
+<link rel="stylesheet" type="text/css" href="./Stylesheets/default.css"/>
+```
 Add <code>app.js</code> into your html file
 ```html
-<script src="app.js"></script>
+<script src="terminal.min.js"></script>
 ```
 
 And that's it, the terminal is ready to roll!
